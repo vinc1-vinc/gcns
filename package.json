@@ -16,7 +16,7 @@
     "ejs": "^2.6.1",
     "express": "^4.16.4",
     "http-proxy": "^1.17.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "nodemailer": "^0.7.1",
     "nodemon": "^1.18.9"
   }
