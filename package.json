@@ -12,12 +12,12 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "compression": "^1.7.3",
-    "couchbase": "^2.6.2",
+    "couchbase": "^3.2.5",
     "ejs": "^2.6.1",
     "express": "^4.16.4",
     "http-proxy": "^1.17.0",
     "moment": "^2.24.0",
     "nodemailer": "^0.7.1",
-    "nodemon": "^1.18.9"
+    "nodemon": "^2.0.17"
   }
 }
